@@ -1,2 +1,11 @@
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+fstrtrshai chitti
+hai chittigaru
+=======
 fstrtrsthis is master
+>>>>>>> master
+=======
+fstrtrshai amma'
+>>>>>>> yes
